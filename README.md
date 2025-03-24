@@ -89,6 +89,6 @@
 **附录**：  
 - 工时计算工具推荐：Toggl Track / Clockify  
 - 合规开发指南：GPLv3协议中文解读手册  
-- 行业监督邮箱：standard@devalliance.org  
+- 行业监督邮箱：admin@lanternmc.cn（CyanBukkit官方邮箱） 或者PixelBBS
 
 通过模块化设计和灵活参数配置，该模板既保持价格体系的刚性约束，又为不同规模团队留有定制空间，可作为行业价格自治的基础规范。
